@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-<img width="970" height="611" alt="Nasa PHoto API" src="https://github.com/user-attachments/assets/8498e22c-88b2-457e-bc7c-332ffa43b1dc" />
+<img width="978" height="828" alt="NASA Photo App" src="https://github.com/user-attachments/assets/05a60f5b-679a-459c-9d46-45cd4c58ae99" />
 
 
 ## Features
