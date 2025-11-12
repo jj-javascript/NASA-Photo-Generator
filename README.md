@@ -1,6 +1,6 @@
 # 🚀 NASA Photo Generator 🚀
 
-- An application that lets users enter any date of their choosing and retrieve the NASA photo of the day for that date. **Note: Not Currently Working Becuase of Federal Shutdown****
+- An application that lets users enter any date of their choosing and retrieve the NASA photo of the day for that date.
 
 ## [Live Demo](https://jj-javascript.github.io/NASA-Photo-Generator/)
 
