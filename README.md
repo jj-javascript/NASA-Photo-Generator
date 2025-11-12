@@ -2,7 +2,7 @@
 
 - An application that lets users enter any date of their choosing and retrieve the NASA photo of the day for that date. **Note: Not Currently Working Becuase of Federal Shutdown****
 
-## [Live Demo](https://jj-javascript.github.io/Poetry-Word-Cloud-Generator/)
+## [Live Demo](https://jj-javascript.github.io/NASA-Photo-Generator/)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
